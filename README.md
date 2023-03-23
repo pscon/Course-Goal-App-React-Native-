@@ -1,6 +1,6 @@
 # Course-Goal-App-React-Native-
 
-This is a simple Goal Application built using React Native that allows users to set and track their goals. The application allows users to create, update, and delete their goals. Users can also mark their goals as complete or incomplete, and view their progress toward their goals.
+This is a simple Goal Application built using React Native that allows users to set and track their goals. The application allows users to create, update, and delete their goals. Users can also view their progress toward their goals.
 
 # Getting Started
 
@@ -22,8 +22,5 @@ To get started with this application, you will need to have the following softwa
 
 The application should now be running on your mobile device.
 
-<img
-  src="/path/to/coursegoal.PNG"
-  alt="screenshot of goal app"
-  title="Course Goals App"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+# Preview of Course Goal App
+![coursegoal](https://user-images.githubusercontent.com/72552585/227287373-6bf1312e-1bfc-42bc-b16f-a3ff0eb3d3d9.PNG)
