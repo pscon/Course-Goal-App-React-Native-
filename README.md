@@ -1,9 +1,11 @@
 # Course-Goal-App-React-Native-
+
 This is a simple Goal Application built using React Native that allows users to set and track their goals. The application allows users to create, update, and delete their goals. Users can also mark their goals as complete or incomplete, and view their progress toward their goals.
 
 # Getting Started
 
 To get started with this application, you will need to have the following software installed on your computer:
+
 - Node.js
 - npm or yarn
 - Expo CLI
@@ -19,3 +21,9 @@ To get started with this application, you will need to have the following softwa
 - Use the Expo Go app to scan the QR code displayed in the terminal or browser window.
 
 The application should now be running on your mobile device.
+
+<img
+  src="/path/to/coursegoal.PNG"
+  alt="screenshot of goal app"
+  title="Course Goals App"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
